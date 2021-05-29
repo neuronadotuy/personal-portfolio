@@ -22,10 +22,10 @@ const Navbar = () => {
           </div>
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <MenuItem title="Home" url="#" setClick={setClick} />
-            <MenuItem title="About" url="#" setClick={setClick} />
-            <MenuItem title="Abilities" url="#" setClick={setClick} />
-            <MenuItem title="Portfolio" url="#" setClick={setClick} />
-            <MenuItem title="Contact" url="#" setClick={setClick} />
+            <MenuItem title="About" url="#about" setClick={setClick} />
+            <MenuItem title="Abilities" url="#abilities" setClick={setClick} />
+            <MenuItem title="Portfolio" url="#portfolio" setClick={setClick} />
+            <MenuItem title="Contact" url="#contact" setClick={setClick} />
             <MenuItem
               isIcon="fab fa-github"
               url="https://github.com/neuronadotuy"

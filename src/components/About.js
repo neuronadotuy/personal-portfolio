@@ -5,7 +5,7 @@ import selfPhoto from "../img/self.jpeg";
 
 const About = () => {
   return (
-    <div className="about">
+    <div className="about" id="about">
       <div className="container">
         <h2 className="title">About Me</h2>
         <div className="about-section">

@@ -21,7 +21,7 @@ import react from "../img/react.png";
 
 const Portfolio = () => {
   return (
-    <div className="portfolio">
+    <div className="portfolio" id="portfolio">
       <div className="container">
         <h2 className="title">Portfolio</h2>
         <div className="works">

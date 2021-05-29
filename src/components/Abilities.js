@@ -24,7 +24,7 @@ import vsc from "../img/vsc.png";
 
 const Abilities = () => {
   return (
-    <div className="abilities">
+    <div className="abilities" id="abilities">
       <div className="container">
         <h2 className="title">Abilities</h2>
         <div className="about-section">
