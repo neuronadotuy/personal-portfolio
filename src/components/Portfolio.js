@@ -3,15 +3,15 @@
 import React from "react";
 import Card from "./Card";
 
-import webgastos from "../img/web-gastos.png";
-import webportfolio from "../img/web-portfolio.png";
-import webpacientes from "../img/web-pacientes.png";
-import webprestamos from "../img/web-prestamos.png";
-import webclima from "../img/web-clima.png";
-import webcrypto from "../img/web-crypto.png";
-import webpixabay from "../img/web-pixabay.png";
-import webshoppingcart from "../img/web-shoppingcart.png";
-import webviaje from "../img/web-viaje.png";
+import webgastos from "../img/web-gastos.jpg";
+import webportfolio from "../img/web-portfolio.jpg";
+import webpacientes from "../img/web-pacientes.jpg";
+import webprestamos from "../img/web-prestamos.jpg";
+import webclima from "../img/web-clima.jpg";
+import webcrypto from "../img/web-crypto.jpg";
+import webpixabay from "../img/web-pixabay.jpg";
+import webshoppingcart from "../img/web-shoppingcart.jpg";
+import webviaje from "../img/web-viaje.jpg";
 
 import html from "../img/html5.png";
 import css from "../img/css3.png";

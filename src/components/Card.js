@@ -1,10 +1,7 @@
 /** @format */
 
 import React from "react";
-import empty from "../img/web-empty.png";
-import SkillsItems from "./SkillsItems";
-
-import html from "../img/html5.png";
+import empty from "../img/web-empty.jpg";
 
 const Card = ({
   src,
